@@ -3,7 +3,7 @@ package com.lvsijian8.flowerpot.domin;
 import java.util.ArrayList;
 
 /**Remoter界面的数据
- * Created by Administrator on 2017/4/15.
+ * Created by lvsijian8 on 2017/4/15.
  */
 public class RemoterDetailPot {
     public ArrayList<RemoterDetailPot.Pot> data;

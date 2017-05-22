@@ -11,7 +11,7 @@ import com.google.gson.Gson;
 import java.lang.reflect.Field;
 
 /**
- * Created by Administrator on 2016/11/20.
+ * Created by lvsijian8 on 2016/11/20.
  */
 public class GoglePlayApplication extends Application {
     private static Context context;

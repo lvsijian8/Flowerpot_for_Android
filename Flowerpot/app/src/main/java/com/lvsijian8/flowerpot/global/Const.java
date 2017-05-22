@@ -1,7 +1,7 @@
 package com.lvsijian8.flowerpot.global;
 
 /**
- * Created by Administrator on 2017/3/17.
+ * Created by lvsijian8 on 2017/3/17.
  */
 public class Const {
 

@@ -18,7 +18,7 @@ import com.lvsijian8.flowerpot.utils.UIUtils;
 
 
 /**
- * Created by Administrator on 2016/11/12.
+ * Created by lvsijian8 on 2016/11/12.
  */
 public class Relistview extends ListView implements AdapterView.OnItemClickListener,AbsListView.OnScrollListener{
     private View headview,footview;

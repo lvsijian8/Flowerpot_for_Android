@@ -11,7 +11,7 @@ import android.widget.TextView;
 import com.lvsijian8.flowerpot.R;
 
 /**
- * Created by Administrator on 2017/3/9.
+ * Created by lvsijian8 on 2017/3/9.
  */
 public class MyIndicator_data extends LinearLayout {
     private TextView tv_title;

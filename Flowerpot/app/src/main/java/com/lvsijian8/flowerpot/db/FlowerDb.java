@@ -5,7 +5,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 /**
- * Created by Administrator on 2017/4/7.
+ * Created by lvsijian8 on 2017/4/7.
  */
 public class FlowerDb extends SQLiteOpenHelper {
     public FlowerDb(Context context, String name, SQLiteDatabase.CursorFactory factory, int version) {

@@ -20,7 +20,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * Created by Administrator on 2017/4/18.
+ * Created by lvsijian8 on 2017/4/18.
  */
 public class TestHttp {
     private static OkHttpClient client;

@@ -13,7 +13,7 @@ import com.lvsijian8.flowerpot.R;
 import com.lvsijian8.flowerpot.utils.UIUtils;
 
 /**该自定义控件是TextView+横线+TextView的组合
- * Created by Administrator on 2017/3/20.
+ * Created by lvsijian8 on 2017/3/20.
  */
 public class SettingItem extends LinearLayout {
 

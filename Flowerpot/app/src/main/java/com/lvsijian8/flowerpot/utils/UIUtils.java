@@ -19,7 +19,7 @@ import java.util.Date;
 
 
 /**
- * Created by Administrator on 2016/11/20.
+ * Created by lvsijian8 on 2016/11/20.
  */
 public class UIUtils {
     public static Context getContext(){

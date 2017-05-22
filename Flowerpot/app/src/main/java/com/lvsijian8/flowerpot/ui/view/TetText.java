@@ -12,7 +12,7 @@ import android.widget.TextView;
 import com.lvsijian8.flowerpot.R;
 
 /**
- * Created by Administrator on 2017/5/9.
+ * Created by lvsijian8 on 2017/5/9.
  */
 public class TetText extends RelativeLayout {
 

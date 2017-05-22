@@ -13,7 +13,7 @@ import android.widget.TextView;
 import com.lvsijian8.flowerpot.R;
 
 /**
- * Created by Administrator on 2017/3/11.
+ * Created by lvsijian8 on 2017/3/11.
  */
 public class MyCheckBox extends RelativeLayout {
 

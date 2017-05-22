@@ -3,7 +3,7 @@ package com.lvsijian8.flowerpot.domin;
 import java.util.ArrayList;
 
 /**花盆的数据
- * Created by Administrator on 2017/3/28.
+ * Created by lvsijian8 on 2017/3/28.
  */
 public class Flowerpot {
     public ArrayList<FlowerData> data;

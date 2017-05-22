@@ -1,7 +1,7 @@
 package com.lvsijian8.flowerpot.domin;
 
 /**
- * Created by Administrator on 2017/4/26.
+ * Created by lvsijian8 on 2017/4/26.
  */
 public class Batch_data {
     public boolean check;

@@ -5,7 +5,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /**
- * Created by Administrator on 2017/3/27.
+ * Created by lvsijian8 on 2017/3/27.
  */
 public class Detail_data {
     public ArrayList<Ddata> data;
